@@ -1,0 +1,75 @@
+.headertitle{
+    
+    
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    color: #333333;
+}
+
+   
+.mt-n1 {
+    margin-top: 5rem !important;
+    width: 500px !important;
+    width:100% !important;
+  }
+  .heading{
+   font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    
+  }
+  .mt-5{
+    margin-top: 6rem !important;
+    margin-left: 4rem !important;
+  }
+  .discription{
+    font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+  }
+  .button {
+    background-color: #333333;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.035em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+  }
+.copyright{
+  padding-left: 300px !important; 
+  font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #BDBDBD;
+
+}
